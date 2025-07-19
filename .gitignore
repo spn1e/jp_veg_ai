@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Models & large files (optional – if > 100 MB)
+*.keras
+
+# Streamlit secrets
+.streamlit/secrets.toml
