@@ -27,8 +27,7 @@ jp_veg_ai/
 ├─ veg_risk_scores.csv        ← latest‑year risk table
 ├─ models/                    ← auto‑saved LSTM .keras files
 ├─ notebooks/
-│   ├─ 01_feature_eng.ipynb   ← cleaning & FE
-│   └─ 02_modelling.ipynb     ← LSTM training & metrics
+│  jp_veg_notebook.ipynb
 ├─ requirements.txt
 └─ runtime.txt                ← pins Python 3.11 on Streamlit Cloud
 ```
